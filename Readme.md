@@ -1,4 +1,4 @@
-#  Formação Apacha Kafka
+#  Formação Apache Kafka
 
 ## Curso - Kafka: Produtores, Consumidores e streams
 
