@@ -10,10 +10,10 @@ https://kafka.apache.org/downloads
 ```
 <ol>
     <li>Selecione a versão mais  recente com suporte a Scala</li>
-    <img src="#" alt="passo 1" srcset="">
+    <img src="https://github.com/BlackWidow29/curso-apacha-kafka/blob/main/.github/Passo1.png" alt="passo 1" srcset="">
     <li>Descompacte o arquivo tar.gz na sua máquina</li>
-    <img src="#" alt="passo 2" srcset="">
-    <li>Suba o zookeeper e o kafka conforme mostrado em</li> <a href="#comandosuteis"></a>
+    <img src="https://github.com/BlackWidow29/curso-apacha-kafka/blob/main/.github/Passo2.png" alt="passo 2" srcset="">
+    <li>Suba o zookeeper e o kafka conforme mostrado em</li> <a href="#comandosuteis">Comandos úteis</a>
     <li></li>
 </ol>
 
